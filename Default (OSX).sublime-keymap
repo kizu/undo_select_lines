@@ -1,0 +1,7 @@
+[
+    {
+        "keys": ["super+u"],
+        "command": "undo_select_lines",
+        "context": [{ "key": "undo_select_lines" }]
+    }
+]
